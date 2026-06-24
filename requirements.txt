@@ -1,0 +1,5 @@
+Libraries not installed by default:
+- pandas
+- sklearn
+- numpy
+- matplotlib
