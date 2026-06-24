@@ -22,17 +22,19 @@ Technologies Used:
 
 Screenshots:
 Login screen:
-
+![Login Screen](screenshots/loginscreen.png)
 Password vault:
-
+![Password Vault](screenshots/passwordvault.png)
 Password generator:
-
+![Password Generator](screenshots/passwordGen.png)
 Dashboard:
-
+![Dashboard](screenshots/dashboard.png)
 How to Run:
 1: Clone the repository
 2: Install dependencies using: 'pip install -r requirements.txt'
 3: Run: 'python main.py'
+
+Latest version available in releases.
 
 Author:
 Developed by Benjamin Kay as part of a university dissertation.
