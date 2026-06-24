@@ -24,12 +24,15 @@ Screenshots:
 Login screen:
 
 ![Login Screen](screenshots/loginscreen.png)
+
 Password vault:
 
 ![Password Vault](screenshots/passwordvault.png)
+
 Password generator:
 
 ![Password Generator](screenshots/passwordGen.png)
+
 Dashboard:
 
 ![Dashboard](screenshots/dashboard.png)
