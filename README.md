@@ -22,13 +22,18 @@ Technologies Used:
 
 Screenshots:
 Login screen:
+
 ![Login Screen](screenshots/loginscreen.png)
 Password vault:
+
 ![Password Vault](screenshots/passwordvault.png)
 Password generator:
+
 ![Password Generator](screenshots/passwordGen.png)
 Dashboard:
+
 ![Dashboard](screenshots/dashboard.png)
+
 How to Run:
 1: Clone the repository
 2: Install dependencies using: 'pip install -r requirements.txt'
